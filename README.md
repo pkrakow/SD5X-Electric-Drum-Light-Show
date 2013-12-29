@@ -1,7 +1,7 @@
 SD5X-Electric-Drum-Light-Show
 =============================
 
-This repository is filled with love and kindness and arduino code that drives EL lights in sync with drum hits on a Simmons SD5X electric drum kit.  This was a little christmas project I whipped up for my kids.
+This repository is filled with love and kindness and arduino code that drives EL lights in sync with drum hits on a Simmons SD5X electric drum kit (http://www.simmonsdrums.net/sd5x/).  This was a little christmas project I whipped up for my kids.
 
 You can see a video of the kit with the lights here: http://www.youtube.com/watch?v=O_wOILqH7EU
 
